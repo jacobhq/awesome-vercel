@@ -11,4 +11,5 @@ Awesome apps on vercel.app or now.sh domains in alphabetical order. Niether me o
 
 - [`amazing-emails.vercel.app`](https://amazing-emails.vercel.app) - A tool for writing emails in markdown, and styling in CSS
 - [`carbon.now.sh`](https://carbon.now.sh) - Awesome tool for generating screenshots of code
+- [`og-image.vercel.app`](https://og-image.vercel.app/) - Generate cool social images to put in your meta tags on the fly
 - [`mac.now.sh`](https://mac.now.sh) - Kinda ok Mac OS Big Sur landing page built with fullpage
